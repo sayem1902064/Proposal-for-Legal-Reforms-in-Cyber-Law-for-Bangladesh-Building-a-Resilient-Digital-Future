@@ -2,8 +2,8 @@
 # Assignment Title:
 Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 ## Submitted by:
-**Name:** A.S.M Sayem 
-**ID:** 1902064 
+**Name:** A.S.M Sayem <br>
+**ID:** 1902064 <br>
 **Level:** 4, Semester: II  
 **Department:** Computer Science and Engineering, HSTU  
 
